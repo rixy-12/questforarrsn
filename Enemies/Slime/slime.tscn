@@ -806,7 +806,6 @@ xp_reward = 15
 
 [node name="HurtBox" parent="." instance=ExtResource("2_abt64")]
 position = Vector2(0, -7)
-damage = 2
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="HurtBox"]
 shape = SubResource("CircleShape2D_mc85u")

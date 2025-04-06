@@ -12,8 +12,8 @@ metadata/_custom_type_script = "uid://b73hijmin5dn2"
 
 [resource]
 script = ExtResource("3_sbcyb")
-title = "البحث عن ادريان"
-description = "الوصول إلى أدريان صعب، لكن استفسر من أهل القرية فقد تجد تلميحات."
-steps = Array[String](["ايجاد ادريان"])
+title = "Search for Adrian"
+description = "Reaching Adrian is difficult, but ask the villagers — you might find some clues."
+steps = Array[String](["Find Adrian"])
 reward_xp = 25
 reward_items = Array[ExtResource("1_2jcr8")]([SubResource("Resource_5i5be")])
