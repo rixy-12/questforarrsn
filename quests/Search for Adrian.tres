@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 [gd_resource type="Resource" script_class="Quest" load_steps=5 format=3 uid="uid://c4y3c6ph436us"]
+=======
+[gd_resource type="Resource" script_class="Quest" load_steps=5 format=3 uid="uid://l4lqn4552kmt"]
+>>>>>>> Stashed changes
 
 [ext_resource type="Script" uid="uid://b73hijmin5dn2" path="res://quests/scripts/quest_reward_item.gd" id="1_2jcr8"]
 [ext_resource type="Resource" uid="uid://prvahwyi1iha" path="res://Items/apple.tres" id="2_fa4nl"]

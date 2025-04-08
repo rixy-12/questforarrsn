@@ -14,7 +14,11 @@
 [ext_resource type="Script" uid="uid://c80ln4eok2stu" path="res://Interactables/dialog/scripts/dialog_branch.gd" id="15_w1irt"]
 [ext_resource type="PackedScene" uid="uid://b523kljtfiar7" path="res://quests/utility_nodes/quest_advance_trigger.tscn" id="16_xonce"]
 [ext_resource type="Resource" uid="uid://cpt62od4qwpsd" path="res://quests/spider_king.tres" id="17_ena7o"]
+<<<<<<< Updated upstream
 [ext_resource type="Resource" uid="uid://c4y3c6ph436us" path="res://quests/Search for Adrian.tres" id="18_hqw0x"]
+=======
+[ext_resource type="Resource" uid="uid://l4lqn4552kmt" path="res://quests/Search for Adrian.tres" id="18_hqw0x"]
+>>>>>>> Stashed changes
 [ext_resource type="PackedScene" uid="uid://cecpvxcr0tved" path="res://Levels/level_transition_interact.tscn" id="20_offyj"]
 [ext_resource type="Resource" uid="uid://cvnr3a38pmudn" path="res://quests/spider.tres" id="21_dss6c"]
 [ext_resource type="PackedScene" uid="uid://cf0a8hxch6kfd" path="res://Props/pot/pot.tscn" id="23_386ky"]
