@@ -19,8 +19,10 @@ metadata/_custom_type_script = "uid://b73hijmin5dn2"
 
 [resource]
 script = ExtResource("3_3p5mj")
-title = "سلسال فايلور"
-description = "قبل مواجهة فايلور، ستحتاج إلى درع لوسيان لمقاومة سحره.  لكن عليك إحضار سلسال فايلور أولًا!\""
-steps = Array[String](["ايجاد الخنفسة", "الحصول على سلسال  فايلور", "إعادة السلسال الى راثيكس"])
+title = "The Amulet of Vailor"
+description = "Before facing Vailor, you’ll need Lucian’s Shield to resist his magic. But first, you must retrieve the Amulet of Vailor!
+
+"
+steps = Array[String](["Find the Beetle", "Obtain the Amulet of Vailor", "Return the Amulet to Rathix"])
 reward_xp = 25
 reward_items = Array[ExtResource("1_tpdow")]([SubResource("Resource_5i5be"), SubResource("Resource_xp0j7")])

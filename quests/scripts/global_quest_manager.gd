@@ -16,9 +16,9 @@ func gather_quest_data() -> void:
 	var quest_files : PackedStringArray = DirAccess.get_files_at(QUEST_DATA_LOCATION)
 	quests.clear()
 	for q in quest_files:
-		quests.append(load(QUEST_DATA_LOCATION + "/" + q) as Quest)
-		pass
-	pass
+		var file_name = q.trim_suffix(".remap")  # إزالة .remap إن وُجد
+		var quest = load(QUEST_DATA_LOCATION + "/" + file_name) as Quest
+		quests.append(quest)
 
 func update_quest(_title: String, _completed_step: String = "", _is_complete: bool = false) -> void:
 	var quest_index : int = get_quest_index_by_title(_title)

@@ -12,8 +12,10 @@ metadata/_custom_type_script = "uid://b73hijmin5dn2"
 
 [resource]
 script = ExtResource("3_3c1nn")
-title = "تفاحة الحكمة"
-description = "تفاحة الحكمة هي مهمة حيث عليك جمع التفاحات من الغابة اوإحضارها إلى الـى هولمز لتعلم سلاح جديد واكتساب مهارات خاصة"
-steps = Array[String](["إيجاد مكان التفاحة", "اخذ التفاحة", "إعادتها إلى هولمس"])
+title = "The Apple of Wisdom"
+description = "The Apple of Wisdom is important — you must collect apples from the forest and bring them to Holmes to learn a new weapon and gain special abilities.
+
+"
+steps = Array[String](["Find the Apple’s Location", "Take the Apple", "Return it to Holmes"])
 reward_xp = 15
 reward_items = Array[ExtResource("1_iptm2")]([SubResource("Resource_5i5be")])
